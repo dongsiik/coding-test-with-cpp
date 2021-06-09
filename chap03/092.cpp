@@ -1,4 +1,4 @@
-//92ÂÊ ½ÇÀü ¹®Á¦ 2 : Å« ¼öÀÇ ¹ýÄ¢
+//92쪽 <2> : 큰 수의 법칙
 
 #include <iostream>
 #include <vector>
