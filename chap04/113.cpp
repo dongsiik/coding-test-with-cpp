@@ -1,4 +1,4 @@
-//113ÂÊ ¿¹Á¦ 4-2 : ½Ã°¢
+//113ìª½ ì˜ˆì œ 4-2 : ì‹œê°
 
 #include <iostream>
 using namespace std;
