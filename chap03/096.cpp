@@ -1,4 +1,4 @@
-//96쪽 실전 문제 3 : 숫자 카드 게임
+//96쪽 <3> : 숫자 카드 게임
 
 #include <iostream>
 using namespace std;
