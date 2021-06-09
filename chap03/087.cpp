@@ -1,4 +1,4 @@
-//87ÂÊ ¿¹Á¦ 3-1 : °Å½º¸§µ· ¹®Á¦
+//87쪽 예제 3-1 : 거스름돈 문제
 
 #include <iostream>
 using namespace std;
