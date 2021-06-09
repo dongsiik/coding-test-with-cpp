@@ -1,4 +1,4 @@
-//115ÂÊ <3> : °ÔÀÓ °³¹ß
+//115ìª½ <3> : ê²Œì„ ê°œë°œ
 
 #include <iostream>
 using namespace std;
