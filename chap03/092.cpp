@@ -1,4 +1,4 @@
-//92�� ���� ���� 2 : ū ���� ��Ģ
+//92ÂÊ ½ÇÀü ¹®Á¦ 2 : Å« ¼öÀÇ ¹ýÄ¢
 
 #include <iostream>
 #include <vector>
