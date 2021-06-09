@@ -1,4 +1,4 @@
-//99ÂÊ ½ÇÀü ¹®Á¦ 4 : 1ÀÌ µÉ ¶§±îÁö
+//99쪽 <4> : 1이 될 때까지
 
 #include <iostream>
 using namespace std;
