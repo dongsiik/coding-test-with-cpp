@@ -1,4 +1,4 @@
-//115ÂÊ <2> : ¿Õ½ÇÀÇ ³ªÀÌÆ®
+//115ìª½ <2> : ì™•ì‹¤ì˜ ë‚˜ì´íŠ¸
 
 #include <iostream>
 #include <string>
