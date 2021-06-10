@@ -1,4 +1,4 @@
-//198쪽 <2> : 부품 찾기(이진 탐색)
+//197쪽 <2> : 부품 찾기(이진 탐색)
 
 #include <iostream>
 #include <vector>
