@@ -1,5 +1,4 @@
 //325 Q10 : 자물쇠와 열쇠
-//이 코드는 6,7,8,15,18,19,20,38번 테스트 케이스를 통과하지 못합니다.
 
 #include <string>
 #include <vector>
@@ -51,7 +50,7 @@ bool matching(vector<vector<int>> key, vector<vector<int>> lock, int x, int y) {
 
 //여러 방향과 위치로 자물쇠와 열쇠를 시험해보는 함수
 bool solution(vector<vector<int>> key, vector<vector<int>> lock) {
-    int n = key.size();
+    int n = lock.size();
 
     for (int r = 0; r < 4; r++) {
         key = rotate(key);
